@@ -1,0 +1,7 @@
+﻿  Hang man.cpp
+C:\Users\Jaylon\source\repos\Hang man\Hang man\Hang man.cpp(25,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jaylon\source\repos\Hang man\Hang man\Hang man.cpp(42,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jaylon\source\repos\Hang man\Hang man\Hang man.cpp(296,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jaylon\source\repos\Hang man\Hang man\Hang man.cpp(337,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jaylon\source\repos\Hang man\Hang man\Hang man.cpp(356,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hang man.vcxproj -> C:\Users\Jaylon\source\repos\Hang man\x64\Debug\Hang man.exe
